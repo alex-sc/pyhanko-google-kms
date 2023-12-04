@@ -1,0 +1,2 @@
+cryptography==41.0.7
+google-cloud-kms==2.19.2
